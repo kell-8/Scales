@@ -4,7 +4,6 @@ void setup() {
   noLoop(); 
 }
 void draw() {
-  //scale(250, 250);
   for (int y = 16; y < 500; y+=32) {
     for (int x = 16; x < 480; x+=32) {
       scale(x, y);
