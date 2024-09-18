@@ -1,7 +1,7 @@
 void setup() {
-  size(480,480);  //feel free to change the size
+  size(480,480);
   background(0);
-  noLoop(); //stops the draw() function from repeating
+  noLoop(); 
 }
 void draw() {
   //scale(250, 250);
